@@ -1,0 +1,3 @@
+C:/Users/dingc/CLionProjects/173Proj1/cmake-build-debug/CMakeFiles/173Proj1.dir
+C:/Users/dingc/CLionProjects/173Proj1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dingc/CLionProjects/173Proj1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
