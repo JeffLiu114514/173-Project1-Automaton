@@ -9,6 +9,3 @@ Run Instruction:
 
 Interestingly, we found fgets() may be troublesome, so we used scanf() instead.
 In the terminal, we use 0 for false and 1 for true.
-
-We have mainly built this program based on the provide source and header file (.c & .h) of nfa and dfa. We also used the ones for LinkedList.
-
